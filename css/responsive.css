@@ -14,9 +14,6 @@
     #search{
         width: 100%;
     }
-    /* .burger{
-        display: none;
-    } */
     .burger{
     position: absolute;
     cursor: pointer;
